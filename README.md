@@ -1,2 +1,3 @@
 # projects
-Random Programs
+Programs for automation
+
