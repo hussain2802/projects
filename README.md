@@ -1,3 +1,3 @@
-# projects
+# Automation programs
 Programs for automation
 
